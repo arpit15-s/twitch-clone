@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Nice stream",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "Nice stream",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "Kb",
+      "id": 3
+    },
+    {
+      "title": "cvdgv",
+      "description": "cbjhdg",
+      "id": 4
+    },
+    {
+      "title": "I created This stream",
+      "description": "!!!",
+      "id": 5
+    },
+    {
+      "title": "Reusable Stream Creation",
+      "description": "Refactoring",
+      "userId": "117617157634698689695",
+      "id": 7
+    }
+  ]
+}
